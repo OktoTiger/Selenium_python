@@ -6,7 +6,7 @@
 * pip install webdriver_manager
 * pip install allure-pytest
 
-Для просмотра отчета, нужно установить allure и запустить командой: <путь до каталога>\allure serve my_allure_results 
+Для просмотра отчета, нужно установить allure и запустить командой: .\allure serve <путь до каталога>\my_allure_results 
 
 
 
