@@ -1,6 +1,5 @@
 # Selenium_python
-Автотесты на selenium написанные c помощью python
-Для запуска необходимо установить библиотеки с помощью команд:
+Автотесты на selenium написанные c помощью python. Для запуска необходимо установить библиотеки с помощью команд:
 * pip install pytest
 * pip install selenium
 * pip install webdriver_manager
